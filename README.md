@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/reem-hamraz-51511930a/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0006-0148-6462)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:reemhamraz.2901@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=ReemHamraz&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
