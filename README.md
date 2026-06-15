@@ -104,7 +104,7 @@ Built a multi-model classification system (SVM / KNN / Decision Tree) hitting 92
 <td align="center" width="220">
 <img src="https://img.shields.io/badge/-Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" /><br/>
 <b>CEPT Urban Innovation</b><br/>
-<sub>National Hackathon 2025<br/>1st place</sub>
+<sub>National Hackathon 2025<br/>3rd place</sub>
 </td>
 </tr>
 <tr>
