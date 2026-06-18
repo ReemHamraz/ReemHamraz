@@ -77,7 +77,6 @@ Built a multi-model classification system (SVM / KNN / Decision Tree) hitting 92
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReemHamraz&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -133,7 +132,5 @@ Built a multi-model classification system (SVM / KNN / Decision Tree) hitting 92
 <div align="center">
 
 <sub>Certifications: Python — IBM &nbsp;·&nbsp; Data Analytics in Python — IIT BHU &nbsp;·&nbsp; GNSS — ISRO &nbsp;·&nbsp; Software Engineering — JP Morgan</sub>
-
-<br/><br/>
 
 </div>
