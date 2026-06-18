@@ -136,6 +136,4 @@ Built a multi-model classification system (SVM / KNN / Decision Tree) hitting 92
 
 <br/><br/>
 
-![snake gif](https://github.com/ReemHamraz/ReemHamraz/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
