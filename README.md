@@ -75,10 +75,10 @@ Built a multi-model classification system (SVM / KNN / Decision Tree) hitting 92
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ReemHamraz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
